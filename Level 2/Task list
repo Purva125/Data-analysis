@@ -1,0 +1,19 @@
+Task1: Restaurant Ratings
+
+a.Analyze the distribution of aggregate ratings and determine the most common rating range.
+b.Calculate the average number of votes received by restaurants.
+
+Task2: Cuisine Combination
+
+a.Identify the most common combinations of cuisines in the dataset.
+b.Determine if certain cuisine combinationstend to have higher ratings.
+
+Task3: Geographic Analysis
+
+a.Plot the locations of restaurants on a map using longitude and latitude coordinates.
+b.Identify any patterns or clusters of restaurants in specific areas.
+
+Task4: Restaurant Chains
+
+a.Identify if there are any restaurant chains present in the dataset.
+b.Analyze the ratings and popularity of different restaurant chains.
