@@ -1,0 +1,14 @@
+Task1: Restaurant Reviews
+
+a.Analyze the text reviews to identify the most common positive and negative keywords.
+b.Calculate the average length of reviews and explore if there is a relationship between review length and rating.
+
+Task2: Votes Analysis
+
+a.Identify the restaurants with the highest and lowest number of votes.
+b.Analyze if there is a correlation between the number of votes and the rating of a restaurant.
+
+Task3: Price Range vs. Online Delivery and Table Booking
+
+a.Analyze if there is a relationship between the price range and the availability of online delivery and table booking.
+b.Determine if higher-priced restaurants are more likely to offer these services.
